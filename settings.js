@@ -10,7 +10,7 @@ global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, kenya, Nairobi"
 
-global.ownernumber = '2347043759577,254779131403,254758081072'  //creator number
+global.ownernumber = '254758081072,254779131403,254758081072'  //creator number
 global.ownername = 'Niccurz' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
